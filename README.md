@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Starlab.jpeg" width="900" alt="Starlab | Deep Future">
+  <img src="Starlab.jpeg" width="900" alt="Starlab | Deep Future">
 </p>
 <!--
 **christopher-altman/christopher-altman** is a ✨ _special_ ✨ repository 
