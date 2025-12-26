@@ -1,9 +1,8 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="images/Starlab.jpeg" width="900" alt="Starlab | Deep Future">
+</p>
 <!--
-**christopher-altman/christopher-altman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**christopher-altman/christopher-altman** is a ✨ _special_ ✨ repository 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
