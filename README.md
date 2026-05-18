@@ -6,7 +6,7 @@
 >
 > — Richard Feynman
 
-<a href="https://continuationobservatory.org/">Continuation Observatory</a> | <a href="https://lab.christopheraltman.com/">Frontier AI Research</a> | <a href="https://www.christopheraltman.com/">Homepage</a>
+<a href="https://continuationobservatory.org/">Continuation Observatory</a> | <a href="https://lab.christopheraltman.com/">Frontier AI</a> | <a href="https://www.christopheraltman.com/">Homepage</a>
 <!--
 **christopher-altman/christopher-altman** is a ✨ _special_ ✨ repository 
 
