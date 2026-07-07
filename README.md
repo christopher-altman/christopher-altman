@@ -1,4 +1,6 @@
-
+<p align="left">
+  <img src="Starlab.jpeg" width="1000" alt="Starlab | Deep Future">
+</p>
 
 > Frontier AI evaluation · Quantum machine learning · Superconducting quantum benchmarks
 > 
