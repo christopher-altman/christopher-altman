@@ -2,10 +2,8 @@
   <img src="Starlab.jpeg" width="1000" alt="Starlab | Deep Future">
 </p>
 
-> We are at the very beginning of time for the human race. It is not unreasonable that we grapple with problems. But there are tens of thousands of years in the future. Our responsibility is to do what we can, learn what we can, improve the solutions, and pass them on. 
->
-> — Richard Feynman
-
+> Frontier AI evaluation · Quantum machine learning · Superconducting quantum benchmarks
+> 
 <a href="https://continuationobservatory.org/">Continuation Observatory</a> | <a href="https://lab.christopheraltman.com/">Frontier AI</a> | <a href="https://www.christopheraltman.com/">Homepage</a>
 <!--
 **christopher-altman/christopher-altman** is a ✨ _special_ ✨ repository 
