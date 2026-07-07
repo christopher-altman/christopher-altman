@@ -1,11 +1,13 @@
-<p align="left">
+    <p align="left">
   <img src="Starlab.jpeg" width="1000" alt="Starlab | Deep Future">
 </p>
 
 > Frontier AI evaluation · Quantum machine learning · Superconducting quantum benchmarks
 
 <span style="font-size: 0.85em;">
-Our research program builds falsification frameworks and reproducible evaluation harnesses for testing claims in frontier AI, AI alignment, quantum machine learning, and quantum hardware. Current work focuses on structural AI evaluation, continuation-risk measurement, quantum kernel methods, telemetry anomaly detection, and superconducting-qubit benchmarks.
+Our research program builds falsification frameworks and reproducible evaluation harnesses for testing claims in frontier AI evaluation, alignment testing, quantum machine learning, and quantum hardware. 
+  <br><br>
+  Current work focuses on structural AI metrics, continuation-risk measurement, quantum kernel methods, telemetry anomaly detection, and superconducting-qubit benchmarks.
 <br><br>
 <a href="https://continuationobservatory.org/">Continuation Observatory</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://lab.christopheraltman.com/">Frontier AI</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=tvwpCcgAAAAJ">Google Scholar</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.christopheraltman.com/">Homepage</a>
 <!--
