@@ -3,7 +3,12 @@
 </p>
 
 > Frontier AI evaluation · Quantum machine learning · Superconducting quantum benchmarks
-> 
+
+<span style="font-size: 0.85em;">
+Our research program builds falsification frameworks and reproducible evaluation harnesses for testing claims in frontier AI, AI alignment, quantum machine learning, and quantum hardware. Current work focuses on structural AI evaluation, continuation-risk measurement, quantum kernel methods, telemetry anomaly detection, and superconducting-qubit benchmarks.
+
+Previous work includes Starlab artificial brain research recognized in the Guinness World Records, published backpropagation adaptive quantum network models in the *International Journal of Theoretical Physics*, international quantum technology assessment with the QuIST Project, and astronaut training at NASA and commercial training providers around the US. These threads converge in a research program focused on measurement, falsification, and frontier-technology evaluation.</span>
+
 <a href="https://continuationobservatory.org/">Continuation Observatory</a> | <a href="https://lab.christopheraltman.com/">Frontier AI</a> | <a href="https://www.christopheraltman.com/">Homepage</a>
 <!--
 **christopher-altman/christopher-altman** is a ✨ _special_ ✨ repository 
