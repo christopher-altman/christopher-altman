@@ -6,8 +6,8 @@
 
 <span style="font-size: 0.85em;">
 Our research program builds falsification frameworks and reproducible evaluation harnesses for testing claims in frontier AI, AI alignment, quantum machine learning, and quantum hardware. Current work focuses on structural AI evaluation, continuation-risk measurement, quantum kernel methods, telemetry anomaly detection, and superconducting-qubit benchmarks.
-
-<a href="https://continuationobservatory.org/">Continuation Observatory</a> | <a href="https://lab.christopheraltman.com/">Frontier AI</a> | <a href="https://www.christopheraltman.com/">Homepage</a>
+<br><br>
+<a href="https://continuationobservatory.org/">Continuation Observatory</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://lab.christopheraltman.com/">Frontier AI</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=tvwpCcgAAAAJ">Google Scholar</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.christopheraltman.com/">Homepage</a>
 <!--
 **christopher-altman/christopher-altman** is a ✨ _special_ ✨ repository 
 
