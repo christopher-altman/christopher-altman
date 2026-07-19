@@ -9,7 +9,8 @@ Frontier AI evaluation · Quantum machine learning · Superconducting quantum be
 > Current work focuses on structural AI metrics, continuation-risk measurement, quantum kernel methods, telemetry anomaly detection, and superconducting-qubit benchmarks.
 
 
-<a href="https://continuationobservatory.org/">Continuation Observatory</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://lab.christopheraltman.com/">Frontier AI</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=tvwpCcgAAAAJ">Google Scholar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://www.christopheraltman.com/">Homepage</a>
+[Frontier Research Lab](https://lab.christopheraltman.com) ・ [Continuation Observatory](https://continuationobservatory.org) ・ [Homepage](https://christopheraltman.com) ・ [GitHub](https://github.com/christopher-altman) ・ [Google Scholar](https://scholar.google.com/citations?user=tvwpCcgAAAAJ) ・ [Bio](https://th-pedia.org/wiki/Christopher_Altman) ・ [Email](mailto:x@christopheraltman.com)
+
 <!--
 **christopher-altman/christopher-altman** is a ✨ _special_ ✨ repository 
 
