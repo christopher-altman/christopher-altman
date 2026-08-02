@@ -6,7 +6,7 @@ Frontier AI evaluation · Quantum machine learning · Superconducting quantum be
 
 > Our research program builds falsification frameworks and reproducible evaluation harnesses for testing claims in frontier AI evaluation, alignment testing, quantum machine learning, and quantum hardware. 
 >
-> Current work focuses on structural AI metrics, continuation-risk measurement, quantum kernel methods, telemetry anomaly detection, and superconducting-qubit benchmarks.
+> Current work focuses on structural AI metrics, continuation-risk measurement, quantum kernel methods, recursive self-improvement, telemetry anomaly detection, and superconducting-qubit benchmarks.
 
 [Frontier AI Research Lab](https://lab.christopheraltman.com) ・ [Continuation Observatory](https://continuationobservatory.org) ・ [Personal Website](https://christopheraltman.com) ・ [Google Scholar](https://scholar.google.com/citations?user=tvwpCcgAAAAJ) ・ [Email](mailto:x@christopheraltman.com)
 
