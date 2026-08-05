@@ -1,12 +1,12 @@
 <img src="Starlab.jpeg" width="1000" alt="Starlab | Deep Future">
 
-**Frontier AI evaluation · Quantum machine learning · Superconducting quantum benchmarks**<br>
-> Our research program develops falsification frameworks and reproducible evaluation harnesses spanning [frontier AI evaluation and alignment testing](https://arxiv.org/abs/2603.11382), [adaptive](https://link.springer.com/article/10.1007/s10773-009-0103-1) and [superpositional quantum networks](https://link.springer.com/article/10.1007/s10773-004-7709-0), and [benchmarks on superconducting quantum hardware](https://arxiv.org/abs/2601.16004).
+**Frontier AI evaluation · Quantum machine learning · Superconducting quantum benchmarks**
+
+> Our research program develops falsification frameworks and reproducible evaluation harnesses spanning [frontier AI evaluation and alignment testing](https://arxiv.org/abs/2603.11382), [adaptive](https://link.springer.com/article/10.1007/s10773-009-0103-1) and [superpositional quantum networks](https://link.springer.com/article/10.1007/s10773-004-7709-0), and [superconducting-quantum-hardware benchmarks](https://arxiv.org/abs/2601.16004).
 >
-> Current work focuses on structural AI metrics, continuation-risk measurement, national-security benchmarking, quantum kernel methods, recursive self-improvement, space-telemetry anomaly detection, and [superconducting-qubit experiments](https://arxiv.org/abs/quant-ph/0307101).
+> Current work focuses on structural AI metrics, continuation-risk measurement, national-security benchmarking, quantum kernel methods, recursive self-improvement, space-telemetry anomaly detection, and superconducting-qubit systems.
 
 [Frontier AI Research Lab](https://lab.christopheraltman.com) ・ [Continuation Observatory](https://continuationobservatory.org) ・ [Personal Website](https://christopheraltman.com) ・ [Google Scholar](https://scholar.google.com/citations?user=tvwpCcgAAAAJ) ・ [Email](mailto:x@christopheraltman.com)
-
 
 
 <!--
