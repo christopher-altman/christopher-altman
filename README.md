@@ -4,7 +4,7 @@
 Frontier AI evaluation · Quantum machine learning · Superconducting quantum benchmarks
 
 
-> Our research program builds falsification frameworks and reproducible evaluation harnesses for testing claims in frontier AI evaluation, alignment testing, quantum machine learning, and quantum hardware. 
+> Our research program builds falsification frameworks and reproducible evaluation harnesses for testing claims in [frontier AI evaluation](https://arxiv.org/abs/2603.11382), alignment testing, quantum machine learning, and [quantum hardware](https://arxiv.org/abs/2601.16004). 
 >
 > Current work focuses on structural AI metrics, continuation-risk measurement, quantum kernel methods, recursive self-improvement, telemetry anomaly detection, and superconducting-qubit benchmarks.
 
