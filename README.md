@@ -4,9 +4,9 @@
 Frontier AI evaluation · Quantum machine learning · Superconducting quantum benchmarks
 
 
-> Our research program builds falsification frameworks and reproducible evaluation harnesses for testing claims in [frontier AI evaluation](https://arxiv.org/abs/2603.11382), alignment testing, quantum machine learning, and [quantum hardware](https://arxiv.org/abs/2601.16004). 
+> Our research program builds falsification frameworks and reproducible evaluation harnesses for testing claims in [frontier AI evaluation](https://arxiv.org/abs/2603.11382), alignment testing, [adaptive quantum networks](https://github.com/christopher-altman/sqnt-hardware-demo), quantum machine learning, and [quantum hardware](https://arxiv.org/abs/2601.16004). 
 >
-> Current work focuses on structural AI metrics, continuation-risk measurement, quantum kernel methods, recursive self-improvement, telemetry anomaly detection, and superconducting-qubit benchmarks.
+> Current work focuses on [structural AI metrics](https://github.com/christopher-altman/persistence-signal-detector), [continuation-risk measurement](https://github.com/christopher-altman/persistence-signal-detector), [quantum kernel methods]([https://github.com/christopher-altman/ibm-qml-kernel](https://github.com/christopher-altman/quantum-kernel), recursive self-improvement, [quantum communications](https://github.com/christopher-altman/sat-qkd-security-curves), [space telemetry anomaly detection](https://github.com/christopher-altman/qkernel-telemetry-anomaly), and [superconducting-qubit benchmarks](https://github.com/christopher-altman/ibm-qml-kernel).
 
 [Frontier AI Research Lab](https://lab.christopheraltman.com) ・ [Continuation Observatory](https://continuationobservatory.org) ・ [Personal Website](https://christopheraltman.com) ・ [Google Scholar](https://scholar.google.com/citations?user=tvwpCcgAAAAJ) ・ [Email](mailto:x@christopheraltman.com)
 
